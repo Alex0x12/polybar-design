@@ -3,7 +3,8 @@
 Provides USDT balance information.
 
 ![alt text](./usdtbalance.png "usdtbalance.png")
-
+## Dependencies
+  1. curl
 ## Module
 
 ```ini
