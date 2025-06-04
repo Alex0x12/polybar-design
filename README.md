@@ -1,1 +1,1 @@
-# Here I'll be posting my polybar dotfiles for ricing
+# Here I'll be posting my dotfiles for ricing
