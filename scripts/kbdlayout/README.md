@@ -6,7 +6,7 @@ Provides current keyboard layout and Caps Lock status.
  
 ![alt text](./kbdlayout2.png "kbdlayout2.png")
 ## Dependencies
-	xset
+	xset, grep, awk
 
 ## Module
 
