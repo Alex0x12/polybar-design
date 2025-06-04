@@ -4,8 +4,7 @@ Provides current weather information from openweathermap.
 
 ![alt text](./weather.png "weather.png")
 ## Dependencies
-	curl jq
-	openweathermap api-key   
+	curl, jq, *openweathermap api-key*
 
 ## Module
 
